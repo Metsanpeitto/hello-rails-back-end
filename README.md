@@ -11,6 +11,10 @@ The learning objectives with this app are:
 - Implement a connection between a Ruby on Rails back-end and React front-end.
 - Understand the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
 
+The App from where the data will be fetched is this repository : 
+
+[ReactApp](https://github.com/Metsanpeitto/hello-react-front-end)
+
 ## Built With 
 
 - Ruby on Rails

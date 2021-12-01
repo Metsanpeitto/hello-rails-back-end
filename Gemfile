@@ -57,3 +57,4 @@ gem 'devise'
 gem 'jwt'
 gem 'react-rails'
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
+gem 'rack-cors'
