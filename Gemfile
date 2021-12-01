@@ -55,6 +55,6 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'devise'
 gem 'jwt'
+gem 'rack-cors'
 gem 'react-rails'
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
-gem 'rack-cors'
